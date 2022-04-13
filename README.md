@@ -10,7 +10,7 @@ The dataset as well as the analysis (.ipynb files) are downloadable and can be e
 Aasifa Fathima Ajharali     (U2140422F)<br>
 Adrian Lim Jia Jun          (U2121400A)<br>
 Ahmad Azfar bin Abdul Hamid (U2122084H)<br>
-Amelia Ho Jeng Yee&nbsp     (U2110838C)<br>
+Amelia Ho Jeng Yee          (U2110838C)<br>
 Bernard Lesley Efendy       (U2120902J)<br>
 
 
